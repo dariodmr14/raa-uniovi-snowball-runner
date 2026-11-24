@@ -1,12 +1,13 @@
-# Snowball Runner ❄️
+# ❄️ Snowball Runner
 
-Videojuego 3D desarrollado con **Unity 2020.3.49f1** para la práctica *Ball Runner* de la asignatura **Realidad y Accesibilidad Aumentadas** (Universidad de Oviedo, 2026).
+> 🎓 **Realidad y Accesibilidad Aumentadas (RAA)** · Universidad de Oviedo · Curso 2026/2027
+> Práctica **Ball Runner** (Unity 2020.3.49f1)
 
-Eres una bola de nieve que baja por una montaña helada. Rueda por la nieve para crecer, cuidado con la lava porque te derrite, y usa tu tamaño para superar los obstáculos y recoger los **5 copos de nieve** antes de que se acabe el tiempo.
+Eres una bola de nieve que baja por una montaña helada: rueda por la nieve para crecer, esquiva la lava que te derrite y usa tu tamaño para superar los obstáculos.
 
-## 🎥 Vídeo
+## 🎬 Vídeo
 
-▶️ **[Ver el vídeo en YouTube](https://youtu.be/3oPaEL-benI)** — #RAAUniovi2026
+▶️ **[Ver el vídeo en YouTube](https://youtu.be/3oPaEL-benI)** · #RAAUniovi2026
 
 ## 🎮 Cómo jugar
 
@@ -18,7 +19,7 @@ Ejecuta `Build/Snowball Runner.exe` (Windows).
 | Espacio | Saltar |
 | Enter | Saltar la cinemática inicial |
 
-**Objetivo:** recoger los 5 copos.
+**Objetivo:** recoger los 5 copos de nieve antes de que se acabe el tiempo.
 **Pierdes si:** se acaba el tiempo o te derrites del todo. Si caes al lago helado, el nivel se reinicia.
 
 ## ⚙️ Mecánicas
@@ -31,14 +32,7 @@ Ejecuta `Build/Snowball Runner.exe` (Windows).
 - **HUD** con tamaño (%), copos recogidos y tiempo, con avisos en rojo.
 - **Escenas:** menú → instrucciones → nivel con cinemática → victoria / derrota.
 
-## 📁 Contenido del repositorio
-
-```
-BolaDeNieve/   → proyecto de Unity 2020.3.49f1
-Build/         → ejecutable para Windows
-```
-
-## 🧩 Scripts
+## 🧩 Programación (scripts C#)
 
 | Script | Función |
 |---|---|
@@ -56,6 +50,17 @@ Build/         → ejecutable para Windows
 - Texturas: [ambientCG](https://ambientcg.com) (CC0)
 - Sonidos y música: [Pixabay](https://pixabay.com)
 - Fuente: [Fredoka](https://fonts.google.com/specimen/Fredoka) (OFL)
+
+## 📁 Contenido del repositorio
+
+```
+BolaDeNieve/  → proyecto de Unity 2020.3.49f1
+Build/        → ejecutable para Windows
+```
+
+## 👤 Autor
+
+**Darío Morales Riega** · Grado en Ingeniería Informática del Software, Universidad de Oviedo
 
 ---
 
